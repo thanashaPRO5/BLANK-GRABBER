@@ -1,0 +1,3 @@
+# BLANK-GRABBER
+BLANK GRABBER SETUP 
+you need python 3.8.0+
